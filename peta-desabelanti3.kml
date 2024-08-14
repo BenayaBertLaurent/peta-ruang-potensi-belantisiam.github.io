@@ -5,7 +5,7 @@
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -15,11 +15,61 @@
 	<StyleMap id="m_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Point_3_FasilitasUmum0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Point_3_FasilitasUmum0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Point_3_FasilitasUmum0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Point_3_GedungOlahraga1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Point_3_GedungOlahraga1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Point_3_GedungOlahraga1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Point_3_UMKMGenteng8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Point_3_UMKMGenteng8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Point_3_UMKMGenteng8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Point_3_UMKMLurik9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Point_3_UMKMLurik9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Point_3_UMKMLurik9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Point_3_UMKMSangkar12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Point_3_UMKMSangkar12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Point_3_UMKMSangkar12</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_red-circle">
@@ -34,15 +84,6 @@
 	</StyleMap>
 	<Style id="s_ylw-pushpin">
 		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin0">
-		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
@@ -51,6 +92,15 @@
 		</IconStyle>
 		<ListStyle>
 		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
@@ -72,6 +122,66 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
+	<Style id="sh_Point_3_FasilitasUmum0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_FasilitasUmum0.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Point_3_GedungOlahraga1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_GedungOlahraga1.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Point_3_UMKMGenteng8">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMGenteng8.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Point_3_UMKMLurik9">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMLurik9.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_Point_3_UMKMSangkar12">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMSangkar12.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="sh_red-circle">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -86,6 +196,66 @@
 			<ItemIcon>
 				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
 			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Point_3_FasilitasUmum0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_FasilitasUmum0.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Point_3_GedungOlahraga1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_GedungOlahraga1.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Point_3_UMKMGenteng8">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMGenteng8.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Point_3_UMKMLurik9">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMLurik9.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_Point_3_UMKMSangkar12">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMSangkar12.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
 		</ListStyle>
 	</Style>
 	<Style id="sn_red-circle">
@@ -184,6 +354,239 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>114.1995835943085,-3.145485687093641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jalan Katingan I KKN UKPR</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112524.jpg">]]></description>
+			<LookAt>
+				<longitude>114.1983799284781</longitude>
+				<latitude>-3.14407578748865</latitude>
+				<altitude>0</altitude>
+				<heading>44.62136946669256</heading>
+				<tilt>30.00092214554507</tilt>
+				<range>205.1138386410672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1983709016367,-3.144319826539226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jalan Katingan III KKN UKPR</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112715.jpg">]]></description>
+			<LookAt>
+				<longitude>114.2007848962974</longitude>
+				<latitude>-3.14655765865187</latitude>
+				<altitude>0</altitude>
+				<heading>42.21387513081535</heading>
+				<tilt>32.60815611543234</tilt>
+				<range>147.8238241928296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.2008882782762,-3.146753647160463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jalan Katingan IV KKN UKPR</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112829.jpg">]]></description>
+			<LookAt>
+				<longitude>114.2021962662184</longitude>
+				<latitude>-3.147932449373998</latitude>
+				<altitude>0</altitude>
+				<heading>43.17653091560899</heading>
+				<tilt>36.58001245203246</tilt>
+				<range>120.5836262473614</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.202167011538,-3.148009371149633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jalan Katingan V KKN UKPR</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112943.jpg">]]></description>
+			<LookAt>
+				<longitude>114.2033653046798</longitude>
+				<latitude>-3.149053977762514</latitude>
+				<altitude>0</altitude>
+				<heading>43.17653383649145</heading>
+				<tilt>35.6929899468105</tilt>
+				<range>111.6957325703841</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.2034354180852,-3.149219184456545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jalan Katingan VI KKN UKPR</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_113037.jpg">]]></description>
+			<LookAt>
+				<longitude>114.2047558934429</longitude>
+				<latitude>-3.150425218043714</latitude>
+				<altitude>0</altitude>
+				<heading>42.0526472276339</heading>
+				<tilt>39.05838905090253</tilt>
+				<range>114.0014462145893</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.2048374386423,-3.150600618091047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lapangan hely</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/lap.helypad/@-3.1417862,114.200749,15z/data=!4m2!3m1!1s0x2de40ba4c5e9a6f1:0x787c040b099f804f">https://www.google.com/maps/place/lap.helypad/@-3.1417862,114.200749,15z/data=!4m2!3m1!1s0x2de40ba4c5e9a6f1:0x787c040b099f804f</a>]]></description>
+			<LookAt>
+				<longitude>114.2010858276819</longitude>
+				<latitude>-3.142140628949274</latitude>
+				<altitude>0</altitude>
+				<heading>42.05382684301692</heading>
+				<tilt>31.10608555664671</tilt>
+				<range>379.4115887684853</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_GedungOlahraga1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.2007820798856,-3.141849534549189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Warung mbak tri</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+mbak+tri/@-3.146837,114.201131,15z/data=!4m2!3m1!1s0x2de40bb6d7245f27:0x7df0b09461d70675">https://www.google.com/maps/place/Warung+mbak+tri/@-3.146837,114.201131,15z/data=!4m2!3m1!1s0x2de40bb6d7245f27:0x7df0b09461d70675</a>]]></description>
+			<LookAt>
+				<longitude>114.201237567876</longitude>
+				<latitude>-3.146887423523868</latitude>
+				<altitude>0</altitude>
+				<heading>24.17861953352566</heading>
+				<tilt>30.47439684998666</tilt>
+				<range>137.2854576845618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_UMKMGenteng8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.201098993941,-3.146890610461264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Warung AA lena</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+AA+lena/@-3.1466675,114.2006003,15z/data=!4m2!3m1!1s0x2de40b8a22476c81:0x1d7071de612e9057">https://www.google.com/maps/place/Warung+AA+lena/@-3.1466675,114.2006003,15z/data=!4m2!3m1!1s0x2de40b8a22476c81:0x1d7071de612e9057</a>]]></description>
+			<LookAt>
+				<longitude>114.200855066233</longitude>
+				<latitude>-3.146687140210881</latitude>
+				<altitude>0</altitude>
+				<heading>24.17864168426555</heading>
+				<tilt>30.47436978609644</tilt>
+				<range>131.6485736835696</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_UMKMGenteng8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.20059099795,-3.14664886182572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Warung makan YAYUNE</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+makan+YAYUNE/@-3.1455173,114.1995001,15z/data=!4m2!3m1!1s0x2de40b169f67eeaf:0xdbf41459f730a152">https://www.google.com/maps/place/Warung+makan+YAYUNE/@-3.1455173,114.1995001,15z/data=!4m2!3m1!1s0x2de40b169f67eeaf:0xdbf41459f730a152</a>]]></description>
+			<LookAt>
+				<longitude>114.1994590033782</longitude>
+				<latitude>-3.145488599918705</latitude>
+				<altitude>0</altitude>
+				<heading>24.17870368687799</heading>
+				<tilt>29.8899520795017</tilt>
+				<range>126.6256163167981</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_UMKMGenteng8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1994497022945,-3.14554516547887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bengkel las Belanti</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Beengkel+las+Belanti/@-3.1451473,114.1987778,15z/data=!4m2!3m1!1s0x2de40b5cec00a50b:0x9cf2a3e934037929">https://www.google.com/maps/place/Beengkel+las+Belanti/@-3.1451473,114.1987778,15z/data=!4m2!3m1!1s0x2de40b5cec00a50b:0x9cf2a3e934037929</a>]]></description>
+			<LookAt>
+				<longitude>114.1988149250662</longitude>
+				<latitude>-3.145028634540868</latitude>
+				<altitude>0</altitude>
+				<heading>24.17873382806956</heading>
+				<tilt>30.00050716590643</tilt>
+				<range>109.1608299302895</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_UMKMGenteng8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1987519625512,-3.145098069732112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penggilingan Padi Belanti</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Penggilingan+Padi+Belanti/@-3.1446255,114.198186,15z/data=!4m2!3m1!1s0x2de40bcab66dcacf:0xb07569f170bf9d06">https://www.google.com/maps/place/Penggilingan+Padi+Belanti/@-3.1446255,114.198186,15z/data=!4m2!3m1!1s0x2de40bcab66dcacf:0xb07569f170bf9d06</a>]]></description>
+			<LookAt>
+				<longitude>114.1983330826632</longitude>
+				<latitude>-3.144498151049321</latitude>
+				<altitude>0</altitude>
+				<heading>24.1787585748131</heading>
+				<tilt>30.00068556651193</tilt>
+				<range>144.1142004886906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_UMKMSangkar12</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1982519868277,-3.144625895077458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HN Toko ATK</name>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/HN+Store/@-3.1440818,114.1979312,15z/data=!4m2!3m1!1s0x2de40bb991d0e6e9:0xc08b36f0f53773de">https://www.google.com/maps/place/HN+Store/@-3.1440818,114.1979312,15z/data=!4m2!3m1!1s0x2de40bb991d0e6e9:0xc08b36f0f53773de</a>]]></description>
+			<LookAt>
+				<longitude>114.1979619234579</longitude>
+				<latitude>-3.143919375466332</latitude>
+				<altitude>0</altitude>
+				<heading>24.1787823112717</heading>
+				<tilt>30.0006251681207</tilt>
+				<range>129.1360443400978</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_UMKMLurik9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1979126835442,-3.14405814934999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pos Polisi Belanti</name>
+			<LookAt>
+				<longitude>114.1971541827488</longitude>
+				<latitude>-3.143089715007464</latitude>
+				<altitude>0</altitude>
+				<heading>24.17854218815291</heading>
+				<tilt>28.17817805933739</tilt>
+				<range>147.9689240320814</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Point_3_FasilitasUmum0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1971771937374,-3.143095929659413,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
