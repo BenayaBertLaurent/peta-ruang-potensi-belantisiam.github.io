@@ -126,7 +126,7 @@
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_FasilitasUmum0.png</href>
+				<href>Legend/Point_3_FasilitasUmum0.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -138,7 +138,7 @@
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_GedungOlahraga1.png</href>
+				<href>Legend/Point_3_GedungOlahraga1.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -150,7 +150,7 @@
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMGenteng8.png</href>
+				<href>Legend/Point_3_UMKMGenteng8.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -162,7 +162,7 @@
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMLurik9.png</href>
+				<href>Legend/Point_3_UMKMLurik9.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -174,7 +174,7 @@
 		<IconStyle>
 			<scale>1.4</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMSangkar12.png</href>
+				<href>Legend/Point_3_UMKMSangkar12.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -202,7 +202,7 @@
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_FasilitasUmum0.png</href>
+				<href>Legend/Point_3_FasilitasUmum0.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -214,7 +214,7 @@
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_GedungOlahraga1.png</href>
+				<href>Legend/Point_3_GedungOlahraga1.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -226,7 +226,7 @@
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMGenteng8.png</href>
+				<href>Legend/Point_3_UMKMGenteng8.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -238,7 +238,7 @@
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMLurik9.png</href>
+				<href>Legend/Point_3_UMKMLurik9.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -250,7 +250,7 @@
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>C:/Users/bbl/Downloads/KKN/Konsultasi Publik dan program unggulan/Pemetaan potensi desa/Pemetaan-Potensi-Desa-Belanti-Siam/legend/Point_3_UMKMSangkar12.png</href>
+				<href>Legend/Point_3_UMKMSangkar12.png</href>
 			</Icon>
 		</IconStyle>
 		<BalloonStyle>
@@ -324,7 +324,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Makam KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/Screenshot 2024-08-10 210358.png">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/Screenshot 2024-08-10 210358.png">]]>
+			<p>Jalan Makam KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.1972879775305</longitude>
 				<latitude>-3.142995850613745</latitude>
@@ -342,7 +344,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan II KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112619.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112619.jpg">]]>
+			<p>Jalan Katingan II KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.1997287799585</longitude>
 				<latitude>-3.145478530159089</latitude>
@@ -360,7 +364,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan I KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112524.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112524.jpg">]]>
+			<p>Jalan Katingan I KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.1983799284781</longitude>
 				<latitude>-3.14407578748865</latitude>
@@ -378,7 +384,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan III KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112715.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112715.jpg">]]>
+			<p>Jalan Katingan III KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.2007848962974</longitude>
 				<latitude>-3.14655765865187</latitude>
@@ -396,7 +404,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan IV KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112829.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112829.jpg">]]>
+			<p>Jalan Katingan IV KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.2021962662184</longitude>
 				<latitude>-3.147932449373998</latitude>
@@ -414,7 +424,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan V KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112943.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112943.jpg">]]>
+			<p>Jalan Katingan V KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.2033653046798</longitude>
 				<latitude>-3.149053977762514</latitude>
@@ -432,7 +444,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan VI KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_113037.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_113037.jpg">]]>
+			<p>Jalan Katingan VI KKN UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.2047558934429</longitude>
 				<latitude>-3.150425218043714</latitude>
@@ -450,7 +464,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Lapangan hely</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/lap.helypad/@-3.1417862,114.200749,15z/data=!4m2!3m1!1s0x2de40ba4c5e9a6f1:0x787c040b099f804f">https://www.google.com/maps/place/lap.helypad/@-3.1417862,114.200749,15z/data=!4m2!3m1!1s0x2de40ba4c5e9a6f1:0x787c040b099f804f</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/lap.helypad/@-3.1417862,114.200749,15z/data=!4m2!3m1!1s0x2de40ba4c5e9a6f1:0x787c040b099f804f">https://www.google.com/maps/place/lap.helypad/@-3.1417862,114.200749,15z/data=!4m2!3m1!1s0x2de40ba4c5e9a6f1:0x787c040b099f804f</a>]]>
+			<p>Lapangan olahraga hely</p>
+			</description>
 			<LookAt>
 				<longitude>114.2010858276819</longitude>
 				<latitude>-3.142140628949274</latitude>
@@ -468,7 +484,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Warung mbak tri</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+mbak+tri/@-3.146837,114.201131,15z/data=!4m2!3m1!1s0x2de40bb6d7245f27:0x7df0b09461d70675">https://www.google.com/maps/place/Warung+mbak+tri/@-3.146837,114.201131,15z/data=!4m2!3m1!1s0x2de40bb6d7245f27:0x7df0b09461d70675</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+mbak+tri/@-3.146837,114.201131,15z/data=!4m2!3m1!1s0x2de40bb6d7245f27:0x7df0b09461d70675">https://www.google.com/maps/place/Warung+mbak+tri/@-3.146837,114.201131,15z/data=!4m2!3m1!1s0x2de40bb6d7245f27:0x7df0b09461d70675</a>]]>
+			<p>Warung makan mbak tri</p>
+			</description>
 			<LookAt>
 				<longitude>114.201237567876</longitude>
 				<latitude>-3.146887423523868</latitude>
@@ -486,7 +504,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Warung AA lena</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+AA+lena/@-3.1466675,114.2006003,15z/data=!4m2!3m1!1s0x2de40b8a22476c81:0x1d7071de612e9057">https://www.google.com/maps/place/Warung+AA+lena/@-3.1466675,114.2006003,15z/data=!4m2!3m1!1s0x2de40b8a22476c81:0x1d7071de612e9057</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+AA+lena/@-3.1466675,114.2006003,15z/data=!4m2!3m1!1s0x2de40b8a22476c81:0x1d7071de612e9057">https://www.google.com/maps/place/Warung+AA+lena/@-3.1466675,114.2006003,15z/data=!4m2!3m1!1s0x2de40b8a22476c81:0x1d7071de612e9057</a>]]>
+			<p>Warung makan AA lena</p>
+			</description>
 			<LookAt>
 				<longitude>114.200855066233</longitude>
 				<latitude>-3.146687140210881</latitude>
@@ -504,7 +524,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Warung makan YAYUNE</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+makan+YAYUNE/@-3.1455173,114.1995001,15z/data=!4m2!3m1!1s0x2de40b169f67eeaf:0xdbf41459f730a152">https://www.google.com/maps/place/Warung+makan+YAYUNE/@-3.1455173,114.1995001,15z/data=!4m2!3m1!1s0x2de40b169f67eeaf:0xdbf41459f730a152</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Warung+makan+YAYUNE/@-3.1455173,114.1995001,15z/data=!4m2!3m1!1s0x2de40b169f67eeaf:0xdbf41459f730a152">https://www.google.com/maps/place/Warung+makan+YAYUNE/@-3.1455173,114.1995001,15z/data=!4m2!3m1!1s0x2de40b169f67eeaf:0xdbf41459f730a152</a>]]>
+			<p>Warung makan YAYUNE</p>
+			</description>
 			<LookAt>
 				<longitude>114.1994590033782</longitude>
 				<latitude>-3.145488599918705</latitude>
@@ -522,7 +544,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Bengkel las Belanti</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/Beengkel+las+Belanti/@-3.1451473,114.1987778,15z/data=!4m2!3m1!1s0x2de40b5cec00a50b:0x9cf2a3e934037929">https://www.google.com/maps/place/Beengkel+las+Belanti/@-3.1451473,114.1987778,15z/data=!4m2!3m1!1s0x2de40b5cec00a50b:0x9cf2a3e934037929</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Beengkel+las+Belanti/@-3.1451473,114.1987778,15z/data=!4m2!3m1!1s0x2de40b5cec00a50b:0x9cf2a3e934037929">https://www.google.com/maps/place/Beengkel+las+Belanti/@-3.1451473,114.1987778,15z/data=!4m2!3m1!1s0x2de40b5cec00a50b:0x9cf2a3e934037929</a>]]>
+			<p>Bengkel las Belanti</p>
+			</description>
 			<LookAt>
 				<longitude>114.1988149250662</longitude>
 				<latitude>-3.145028634540868</latitude>
@@ -540,7 +564,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Penggilingan Padi Belanti</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/Penggilingan+Padi+Belanti/@-3.1446255,114.198186,15z/data=!4m2!3m1!1s0x2de40bcab66dcacf:0xb07569f170bf9d06">https://www.google.com/maps/place/Penggilingan+Padi+Belanti/@-3.1446255,114.198186,15z/data=!4m2!3m1!1s0x2de40bcab66dcacf:0xb07569f170bf9d06</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/Penggilingan+Padi+Belanti/@-3.1446255,114.198186,15z/data=!4m2!3m1!1s0x2de40bcab66dcacf:0xb07569f170bf9d06">https://www.google.com/maps/place/Penggilingan+Padi+Belanti/@-3.1446255,114.198186,15z/data=!4m2!3m1!1s0x2de40bcab66dcacf:0xb07569f170bf9d06</a>]]>
+			<p>Industri Penggilingan Padi Belanti</p>
+			</description>
 			<LookAt>
 				<longitude>114.1983330826632</longitude>
 				<latitude>-3.144498151049321</latitude>
@@ -558,7 +584,9 @@
 		</Placemark>
 		<Placemark>
 			<name>HN Toko ATK</name>
-			<description><![CDATA[<a href="https://www.google.com/maps/place/HN+Store/@-3.1440818,114.1979312,15z/data=!4m2!3m1!1s0x2de40bb991d0e6e9:0xc08b36f0f53773de">https://www.google.com/maps/place/HN+Store/@-3.1440818,114.1979312,15z/data=!4m2!3m1!1s0x2de40bb991d0e6e9:0xc08b36f0f53773de</a>]]></description>
+			<description><![CDATA[<a href="https://www.google.com/maps/place/HN+Store/@-3.1440818,114.1979312,15z/data=!4m2!3m1!1s0x2de40bb991d0e6e9:0xc08b36f0f53773de">https://www.google.com/maps/place/HN+Store/@-3.1440818,114.1979312,15z/data=!4m2!3m1!1s0x2de40bb991d0e6e9:0xc08b36f0f53773de</a>]]>
+			<p>HN Toko ATK</p>
+			</description>
 			<LookAt>
 				<longitude>114.1979619234579</longitude>
 				<latitude>-3.143919375466332</latitude>
@@ -576,6 +604,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Pos Polisi Belanti</name>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112347.jpg">]]>
+			<p>Pos Polisi Belanti</p>
+			</description>
 			<LookAt>
 				<longitude>114.1971541827488</longitude>
 				<latitude>-3.143089715007464</latitude>
