@@ -304,7 +304,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Wisata Photobooth KKN Kelompok-3 UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="Markers/SPANDUK KKN IG 140 X 180.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/SPANDUK KKN IG 140 X 180.jpg">]]>
+			<p>Wisata Photobooth KKN Kelompok-3 UKPR</p>
+			</description>
 			<LookAt>
 				<longitude>114.1984759332834</longitude>
 				<latitude>-3.141535200858662</latitude>
