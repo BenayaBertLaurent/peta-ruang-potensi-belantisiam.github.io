@@ -304,7 +304,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Wisata Photobooth KKN Kelompok-3 UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Desain photobooth sawah instagram post/SPANDUK KKN IG 140 X 180.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/SPANDUK KKN IG 140 X 180.jpg">]]></description>
 			<LookAt>
 				<longitude>114.1984759332834</longitude>
 				<latitude>-3.141535200858662</latitude>
@@ -322,7 +322,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Makam KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Proker 2 - Pembanguan palang jalan di Blok A/Screenshot 2024-08-10 210358.png">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/Screenshot 2024-08-10 210358.png">]]></description>
 			<LookAt>
 				<longitude>114.1972879775305</longitude>
 				<latitude>-3.142995850613745</latitude>
@@ -340,7 +340,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan II KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112619.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112619.jpg">]]></description>
 			<LookAt>
 				<longitude>114.1997287799585</longitude>
 				<latitude>-3.145478530159089</latitude>
@@ -358,7 +358,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan I KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112524.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112524.jpg">]]></description>
 			<LookAt>
 				<longitude>114.1983799284781</longitude>
 				<latitude>-3.14407578748865</latitude>
@@ -376,7 +376,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan III KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112715.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112715.jpg">]]></description>
 			<LookAt>
 				<longitude>114.2007848962974</longitude>
 				<latitude>-3.14655765865187</latitude>
@@ -394,7 +394,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan IV KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112829.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112829.jpg">]]></description>
 			<LookAt>
 				<longitude>114.2021962662184</longitude>
 				<latitude>-3.147932449373998</latitude>
@@ -412,7 +412,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan V KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112943.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112943.jpg">]]></description>
 			<LookAt>
 				<longitude>114.2033653046798</longitude>
 				<latitude>-3.149053977762514</latitude>
@@ -430,7 +430,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan VI KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_113037.jpg">]]></description>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_113037.jpg">]]></description>
 			<LookAt>
 				<longitude>114.2047558934429</longitude>
 				<latitude>-3.150425218043714</latitude>
