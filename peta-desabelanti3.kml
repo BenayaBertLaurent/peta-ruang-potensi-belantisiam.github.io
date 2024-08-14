@@ -1738,7 +1738,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Wisata Photobooth KKN Kelompok-3 UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Desain photobooth sawah instagram post/SPANDUK KKN IG 140 X 180.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/SPANDUK KKN IG 140 X 180.jpg">]]>
 			<p>Wisata Photobooth KKN Kelompok-3 UKPR</p>
 			</description>
 			<LookAt>
@@ -1758,7 +1758,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Makam KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Proker 2 - Pembanguan palang jalan di Blok A/Screenshot 2024-08-10 210358.png">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/Screenshot 2024-08-10 210358.png">]]>
 			<p>Jalan Makam KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -1778,7 +1778,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan II KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112619.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112619.jpg">]]>
 			<p>Jalan Katingan II KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -1798,7 +1798,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan I KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112524.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112524.jpg">]]>
 			<p>Jalan Katingan I KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -1818,7 +1818,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan III KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112715.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112715.jpg">]]>
 			<p>Jalan Katingan III KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -1838,7 +1838,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan IV KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112829.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112829.jpg">]]>
 			<p>Jalan Katingan IV KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -1858,7 +1858,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan V KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_112943.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_112943.jpg">]]>
 			<p>Jalan Katingan V KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -1878,7 +1878,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Jalan Katingan VI KKN UKPR</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/IMG_20240807_113037.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG_20240807_113037.jpg">]]>
 			<p>Jalan Katingan VI KKN UKPR</p>
 			</description>
 			<LookAt>
@@ -2038,7 +2038,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Pos Polisi Belanti</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/Dokumentasi/20240808_125323PM_ByGPSMapCamera.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/20240808_125323PM_ByGPSMapCamera.jpg">]]>
 			<p>Pos Polisi Belanti</p>
 			</description>
 			<LookAt>
@@ -2118,7 +2118,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Posko 1 KKN UKPR Desa Belanti Siam</name>
-			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/bbl/Downloads/KKN/jadwal program kerja - Proyek kertas karton A1/IMG-20240722-WA0027.jpg">]]>
+			<description><![CDATA[<img style="max-width:500px;" src="Markers/IMG-20240722-WA0027.jpg">]]>
 			<p>Posko 1 KKN UKPR Desa Belanti Siam</p>
 			</description>
 			<LookAt>
@@ -2676,7 +2676,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Perumahan</name>
+			<description>
 			<p>Perumahan</p>
+			</description>
 			<LookAt>
 				<longitude>114.1952236309573</longitude>
 				<latitude>-3.147201041726472</latitude>
@@ -2694,7 +2696,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Perumahan</name>
+			<description>
 			<p>Perumahan</p>
+			</description>
 			<LookAt>
 				<longitude>114.1960731207261</longitude>
 				<latitude>-3.146767268071479</latitude>
@@ -2712,7 +2716,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Perumahan</name>
+			<description>
 			<p>Perumahan</p>
+			</description>
 			<LookAt>
 				<longitude>114.1938300524704</longitude>
 				<latitude>-3.146664643838457</latitude>
@@ -2730,7 +2736,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Perumahan</name>
+			<description>
 			<p>Perumahan</p>
+			</description>
 			<LookAt>
 				<longitude>114.1989919848306</longitude>
 				<latitude>-3.147665828186056</latitude>
@@ -2768,8 +2776,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
-			<LookAt>
+			</description>
 				<longitude>114.2011815204212</longitude>
 				<latitude>-3.137682530119395</latitude>
 				<altitude>0</altitude>
@@ -2786,7 +2795,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2062658789211</longitude>
 				<latitude>-3.136970030397333</latitude>
@@ -2804,7 +2815,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2076262958848</longitude>
 				<latitude>-3.142148952618411</latitude>
@@ -2822,7 +2835,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2076262958848</longitude>
 				<latitude>-3.142148952618411</latitude>
@@ -2840,7 +2855,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2100989920712</longitude>
 				<latitude>-3.136422329654262</latitude>
@@ -2858,7 +2875,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2100989920712</longitude>
 				<latitude>-3.136422329654262</latitude>
@@ -2876,7 +2895,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2133758427403</longitude>
 				<latitude>-3.13398583841839</latitude>
@@ -2894,7 +2915,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Sawah</name>
+			<description>
 			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.2133758427403</longitude>
 				<latitude>-3.13398583841839</latitude>
@@ -2911,8 +2934,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Perumahan</name>
-			<p>Perumahan</p>
+			<name>Sawah</name>
+			<description>
+			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.1977673832042</longitude>
 				<latitude>-3.151532499295068</latitude>
@@ -2929,8 +2954,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Perumahan</name>
-			<p>Perumahan</p>
+			<name>Sawah</name>
+			<description>
+			<p>Sawah</p>
+			</description>
 			<LookAt>
 				<longitude>114.197884541172</longitude>
 				<latitude>-3.152236476326635</latitude>
@@ -2968,7 +2995,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Toko Kosmetik</name>
+			<description>
 			<p>Toko Kosmetik</p>
+			</description>
 			<LookAt>
 				<longitude>114.1987961830606</longitude>
 				<latitude>-3.149217171524662</latitude>
@@ -3006,7 +3035,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Jasa Konsultan Andi AGRICON</name>
+			<description>
 			<p>Jasa Konsultan Andi AGRICON</p>
+			</description>
 			<LookAt>
 				<longitude>114.193977367472</longitude>
 				<latitude>-3.140379145289762</latitude>
@@ -3124,7 +3155,9 @@
 		</Placemark>
 		<Placemark>
 			<name>Toko Bangunan Swayalina</name>
+			<description>
 			<p>Toko Bangunan Swayalina</p>
+			</description>
 			<LookAt>
 				<longitude>114.1877527188887</longitude>
 				<latitude>-3.134230190352287</latitude>
@@ -3164,7 +3197,7 @@
 			<name>Toko Bangunan Rika Jaya</name>
 			<description><![CDATA[<a href="https://www.google.com/maps/place/UD.+RIKA+JAYA/@-3.1317126,114.1904773,15z/data=!4m2!3m1!1s0x2de40b2e40b7829b:0xb19988fc445aa7bf">https://www.google.com/maps/place/UD.+RIKA+JAYA/@-3.1317126,114.1904773,15z/data=!4m2!3m1!1s0x2de40b2e40b7829b:0xb19988fc445aa7bf</a>]]>
 			<p>Toko Bangunan Rika Jaya</p>
-			</description>
+			</description> 
 			<LookAt>
 				<longitude>114.190397345334</longitude>
 				<latitude>-3.131612428769511</latitude>
