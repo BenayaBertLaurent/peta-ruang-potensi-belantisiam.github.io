@@ -23,7 +23,7 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        var kmlLayer = omnivore.kml('https://benayabertlaurent.github.io/peta-ruang-potensi-belantisiam.github.io/peta-desabelanti1.kml')
+        var kmlLayer = omnivore.kml('https://benayabertlaurent.github.io/peta-ruang-potensi-belantisiam.github.io/peta-desabelanti1.kmz')
             .on('ready', function() {
                 map.fitBounds(kmlLayer.getBounds());
             })
